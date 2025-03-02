@@ -1,0 +1,3093 @@
+{
+    "serializedTypes": [],
+    "typesInScenes": [
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "BuildSettings",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "DelayedCallManager",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "EditorExtension",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "GameManager",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "GlobalGameManager",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "LevelGameManager",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "NamedObject",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "NavMeshProjectSettings",
+            "fullManagedTypeName": "",
+            "moduleName": "AI",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "NavMeshSettings",
+            "fullManagedTypeName": "",
+            "moduleName": "AI",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "ResourceManager",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "RuntimeInitializeOnLoadManager",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "SampleClip",
+            "fullManagedTypeName": "",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "ShaderNameRegistry",
+            "fullManagedTypeName": "",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "",
+            "nativeClass": "StreamingManager",
+            "fullManagedTypeName": "",
+            "moduleName": "Streaming",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioManager",
+            "fullManagedTypeName": "UnityEditor.AudioManager",
+            "moduleName": "Audio",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "InputManager",
+            "fullManagedTypeName": "UnityEditor.InputManager",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "MonoManager",
+            "fullManagedTypeName": "UnityEditor.MonoManager",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "MonoScript",
+            "fullManagedTypeName": "UnityEditor.MonoScript",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Physics2DSettings",
+            "fullManagedTypeName": "UnityEditor.Physics2DSettings",
+            "moduleName": "Physics2D",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "PhysicsManager",
+            "fullManagedTypeName": "UnityEditor.PhysicsManager",
+            "moduleName": "Physics",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "PlayerSettings",
+            "fullManagedTypeName": "UnityEditor.PlayerSettings",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "TagManager",
+            "fullManagedTypeName": "UnityEditor.TagManager",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "TimeManager",
+            "fullManagedTypeName": "UnityEditor.TimeManager",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "VFXManager",
+            "fullManagedTypeName": "UnityEditor.VFXManager",
+            "moduleName": "VFX",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioBehaviour",
+            "fullManagedTypeName": "UnityEngine.AudioBehaviour",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioClip",
+            "fullManagedTypeName": "UnityEngine.AudioClip",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioListener",
+            "fullManagedTypeName": "UnityEngine.AudioListener",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "AudioSource",
+            "fullManagedTypeName": "UnityEngine.AudioSource",
+            "moduleName": "Audio",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Behaviour",
+            "fullManagedTypeName": "UnityEngine.Behaviour",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "BoxCollider",
+            "fullManagedTypeName": "UnityEngine.BoxCollider",
+            "moduleName": "Physics",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Camera",
+            "fullManagedTypeName": "UnityEngine.Camera",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Canvas",
+            "fullManagedTypeName": "UnityEngine.Canvas",
+            "moduleName": "UI",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "CanvasRenderer",
+            "fullManagedTypeName": "UnityEngine.CanvasRenderer",
+            "moduleName": "UI",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Collider",
+            "fullManagedTypeName": "UnityEngine.Collider",
+            "moduleName": "Physics",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Component",
+            "fullManagedTypeName": "UnityEngine.Component",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Cubemap",
+            "fullManagedTypeName": "UnityEngine.Cubemap",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "FlareLayer",
+            "fullManagedTypeName": "UnityEngine.FlareLayer",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Font",
+            "fullManagedTypeName": "UnityEngine.Font",
+            "moduleName": "TextRendering",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "GameObject",
+            "fullManagedTypeName": "UnityEngine.GameObject",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Light",
+            "fullManagedTypeName": "UnityEngine.Light",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "LightmapSettings",
+            "fullManagedTypeName": "UnityEngine.LightmapSettings",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "LineRenderer",
+            "fullManagedTypeName": "UnityEngine.LineRenderer",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Material",
+            "fullManagedTypeName": "UnityEngine.Material",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Mesh",
+            "fullManagedTypeName": "UnityEngine.Mesh",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "MeshCollider",
+            "fullManagedTypeName": "UnityEngine.MeshCollider",
+            "moduleName": "Physics",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "MeshFilter",
+            "fullManagedTypeName": "UnityEngine.MeshFilter",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "MeshRenderer",
+            "fullManagedTypeName": "UnityEngine.MeshRenderer",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "MonoBehaviour",
+            "fullManagedTypeName": "UnityEngine.MonoBehaviour",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Object",
+            "fullManagedTypeName": "UnityEngine.Object",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "QualitySettings",
+            "fullManagedTypeName": "UnityEngine.QualitySettings",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "RectTransform",
+            "fullManagedTypeName": "UnityEngine.RectTransform",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Renderer",
+            "fullManagedTypeName": "UnityEngine.Renderer",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "GraphicsSettings",
+            "fullManagedTypeName": "UnityEngine.Rendering.GraphicsSettings",
+            "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "RenderSettings",
+            "fullManagedTypeName": "UnityEngine.RenderSettings",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Shader",
+            "fullManagedTypeName": "UnityEngine.Shader",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "SphereCollider",
+            "fullManagedTypeName": "UnityEngine.SphereCollider",
+            "moduleName": "Physics",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Sprite",
+            "fullManagedTypeName": "UnityEngine.Sprite",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "TextAsset",
+            "fullManagedTypeName": "UnityEngine.TextAsset",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Texture",
+            "fullManagedTypeName": "UnityEngine.Texture",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Texture2D",
+            "fullManagedTypeName": "UnityEngine.Texture2D",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Transform",
+            "fullManagedTypeName": "UnityEngine.Transform",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity"
+            ]
+        }
+    ],
+    "allNativeTypes": [
+        {
+            "name": "Object",
+            "qualifiedName": "Object",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "",
+            "baseModule": ""
+        },
+        {
+            "name": "AnnotationManager",
+            "qualifiedName": "AnnotationManager",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AssetMetaData",
+            "qualifiedName": "AssetMetaData",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AudioBuildInfo",
+            "qualifiedName": "BuildReporting::AudioBuildInfo",
+            "nativeNamespace": "BuildReporting",
+            "module": "BuildReportingEditor",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "BuiltAssetBundleInfoSet",
+            "qualifiedName": "BuildReporting::BuiltAssetBundleInfoSet",
+            "nativeNamespace": "BuildReporting",
+            "module": "BuildReportingEditor",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "EditorBuildSettings",
+            "qualifiedName": "EditorBuildSettings",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "EditorExtension",
+            "qualifiedName": "EditorExtension",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Component",
+            "qualifiedName": "Unity::Component",
+            "nativeNamespace": "Unity",
+            "module": "Core",
+            "baseName": "EditorExtension",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Behaviour",
+            "qualifiedName": "Behaviour",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Animation",
+            "qualifiedName": "Animation",
+            "nativeNamespace": "",
+            "module": "Animation",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Animator",
+            "qualifiedName": "Animator",
+            "nativeNamespace": "",
+            "module": "Animation",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "ArticulationBody",
+            "qualifiedName": "Unity::ArticulationBody",
+            "nativeNamespace": "Unity",
+            "module": "Physics",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AudioBehaviour",
+            "qualifiedName": "AudioBehaviour",
+            "nativeNamespace": "",
+            "module": "Audio",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AudioListener",
+            "qualifiedName": "AudioListener",
+            "nativeNamespace": "",
+            "module": "Audio",
+            "baseName": "AudioBehaviour",
+            "baseModule": "Audio"
+        },
+        {
+            "name": "AudioSource",
+            "qualifiedName": "AudioSource",
+            "nativeNamespace": "",
+            "module": "Audio",
+            "baseName": "AudioBehaviour",
+            "baseModule": "Audio"
+        },
+        {
+            "name": "AudioFilter",
+            "qualifiedName": "AudioFilter",
+            "nativeNamespace": "",
+            "module": "Audio",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AudioChorusFilter",
+            "qualifiedName": "AudioChorusFilter",
+            "nativeNamespace": "",
+            "module": "Audio",
+            "baseName": "AudioFilter",
+            "baseModule": "Audio"
+        },
+        {
+            "name": "AudioDistortionFilter",
+            "qualifiedName": "AudioDistortionFilter",
+            "nativeNamespace": "",
+            "module": "Audio",
+            "baseName": "AudioFilter",
+            "baseModule": "Audio"
+        },
+        {
+            "name": "AudioEchoFilter",
+            "qualifiedName": "AudioEchoFilter",
+            "nativeNamespace": "",
+            "module": "Audio",
+            "baseName": "AudioFilter",
+            "baseModule": "Audio"
+        },
+        {
+            "name": "AudioHighPassFilter",
+            "qualifiedName": "AudioHighPassFilter",
+            "nativeNamespace": "",
+            "module": "Audio",
+            "baseName": "AudioFilter",
+            "baseModule": "Audio"
+        },
+        {
+            "name": "AudioLowPassFilter",
+            "qualifiedName": "AudioLowPassFilter",
+            "nativeNamespace": "",
+            "module": "Audio",
+            "baseName": "AudioFilter",
+            "baseModule": "Audio"
+        },
+        {
+            "name": "AudioReverbFilter",
+            "qualifiedName": "AudioReverbFilter",
+            "nativeNamespace": "",
+            "module": "Audio",
+            "baseName": "AudioFilter",
+            "baseModule": "Audio"
+        },
+        {
+            "name": "AudioReverbZone",
+            "qualifiedName": "AudioReverbZone",
+            "nativeNamespace": "",
+            "module": "Audio",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Camera",
+            "qualifiedName": "Camera",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Canvas",
+            "qualifiedName": "UI::Canvas",
+            "nativeNamespace": "UI",
+            "module": "UI",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "CanvasGroup",
+            "qualifiedName": "UI::CanvasGroup",
+            "nativeNamespace": "UI",
+            "module": "UI",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Cloth",
+            "qualifiedName": "Unity::Cloth",
+            "nativeNamespace": "Unity",
+            "module": "Cloth",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Collider2D",
+            "qualifiedName": "Collider2D",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "BoxCollider2D",
+            "qualifiedName": "BoxCollider2D",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "Collider2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "CapsuleCollider2D",
+            "qualifiedName": "CapsuleCollider2D",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "Collider2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "CircleCollider2D",
+            "qualifiedName": "CircleCollider2D",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "Collider2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "CompositeCollider2D",
+            "qualifiedName": "CompositeCollider2D",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "Collider2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "CustomCollider2D",
+            "qualifiedName": "CustomCollider2D",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "Collider2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "EdgeCollider2D",
+            "qualifiedName": "EdgeCollider2D",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "Collider2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "PolygonCollider2D",
+            "qualifiedName": "PolygonCollider2D",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "Collider2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "TilemapCollider2D",
+            "qualifiedName": "TilemapCollider2D",
+            "nativeNamespace": "",
+            "module": "Tilemap",
+            "baseName": "Collider2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "ConstantForce",
+            "qualifiedName": "ConstantForce",
+            "nativeNamespace": "",
+            "module": "Physics",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Effector2D",
+            "qualifiedName": "Effector2D",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AreaEffector2D",
+            "qualifiedName": "AreaEffector2D",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "Effector2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "BuoyancyEffector2D",
+            "qualifiedName": "BuoyancyEffector2D",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "Effector2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "PlatformEffector2D",
+            "qualifiedName": "PlatformEffector2D",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "Effector2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "PointEffector2D",
+            "qualifiedName": "PointEffector2D",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "Effector2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "SurfaceEffector2D",
+            "qualifiedName": "SurfaceEffector2D",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "Effector2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "FlareLayer",
+            "qualifiedName": "FlareLayer",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "GridLayout",
+            "qualifiedName": "GridLayout",
+            "nativeNamespace": "",
+            "module": "Grid",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Grid",
+            "qualifiedName": "Grid",
+            "nativeNamespace": "",
+            "module": "Grid",
+            "baseName": "GridLayout",
+            "baseModule": "Grid"
+        },
+        {
+            "name": "Tilemap",
+            "qualifiedName": "Tilemap",
+            "nativeNamespace": "",
+            "module": "Tilemap",
+            "baseName": "GridLayout",
+            "baseModule": "Grid"
+        },
+        {
+            "name": "Halo",
+            "qualifiedName": "Halo",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "IConstraint",
+            "qualifiedName": "IConstraint",
+            "nativeNamespace": "",
+            "module": "Animation",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AimConstraint",
+            "qualifiedName": "AimConstraint",
+            "nativeNamespace": "",
+            "module": "Animation",
+            "baseName": "IConstraint",
+            "baseModule": "Animation"
+        },
+        {
+            "name": "LookAtConstraint",
+            "qualifiedName": "LookAtConstraint",
+            "nativeNamespace": "",
+            "module": "Animation",
+            "baseName": "IConstraint",
+            "baseModule": "Animation"
+        },
+        {
+            "name": "ParentConstraint",
+            "qualifiedName": "ParentConstraint",
+            "nativeNamespace": "",
+            "module": "Animation",
+            "baseName": "IConstraint",
+            "baseModule": "Animation"
+        },
+        {
+            "name": "PositionConstraint",
+            "qualifiedName": "PositionConstraint",
+            "nativeNamespace": "",
+            "module": "Animation",
+            "baseName": "IConstraint",
+            "baseModule": "Animation"
+        },
+        {
+            "name": "RotationConstraint",
+            "qualifiedName": "RotationConstraint",
+            "nativeNamespace": "",
+            "module": "Animation",
+            "baseName": "IConstraint",
+            "baseModule": "Animation"
+        },
+        {
+            "name": "ScaleConstraint",
+            "qualifiedName": "ScaleConstraint",
+            "nativeNamespace": "",
+            "module": "Animation",
+            "baseName": "IConstraint",
+            "baseModule": "Animation"
+        },
+        {
+            "name": "Joint2D",
+            "qualifiedName": "Joint2D",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AnchoredJoint2D",
+            "qualifiedName": "AnchoredJoint2D",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "Joint2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "DistanceJoint2D",
+            "qualifiedName": "DistanceJoint2D",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "AnchoredJoint2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "FixedJoint2D",
+            "qualifiedName": "FixedJoint2D",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "AnchoredJoint2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "FrictionJoint2D",
+            "qualifiedName": "FrictionJoint2D",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "AnchoredJoint2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "HingeJoint2D",
+            "qualifiedName": "HingeJoint2D",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "AnchoredJoint2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "SliderJoint2D",
+            "qualifiedName": "SliderJoint2D",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "AnchoredJoint2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "SpringJoint2D",
+            "qualifiedName": "SpringJoint2D",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "AnchoredJoint2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "WheelJoint2D",
+            "qualifiedName": "WheelJoint2D",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "AnchoredJoint2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "RelativeJoint2D",
+            "qualifiedName": "RelativeJoint2D",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "Joint2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "TargetJoint2D",
+            "qualifiedName": "TargetJoint2D",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "Joint2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "LensFlare",
+            "qualifiedName": "LensFlare",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Light",
+            "qualifiedName": "Light",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "LightProbeGroup",
+            "qualifiedName": "LightProbeGroup",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "LightProbeProxyVolume",
+            "qualifiedName": "LightProbeProxyVolume",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "MonoBehaviour",
+            "qualifiedName": "MonoBehaviour",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "NavMeshAgent",
+            "qualifiedName": "NavMeshAgent",
+            "nativeNamespace": "",
+            "module": "AI",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "NavMeshObstacle",
+            "qualifiedName": "NavMeshObstacle",
+            "nativeNamespace": "",
+            "module": "AI",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "OffMeshLink",
+            "qualifiedName": "OffMeshLink",
+            "nativeNamespace": "",
+            "module": "AI",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "ParticleSystemForceField",
+            "qualifiedName": "ParticleSystemForceField",
+            "nativeNamespace": "",
+            "module": "ParticleSystem",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "PhysicsUpdateBehaviour2D",
+            "qualifiedName": "PhysicsUpdateBehaviour2D",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "ConstantForce2D",
+            "qualifiedName": "ConstantForce2D",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "PhysicsUpdateBehaviour2D",
+            "baseModule": "Physics2D"
+        },
+        {
+            "name": "PlayableDirector",
+            "qualifiedName": "PlayableDirector",
+            "nativeNamespace": "",
+            "module": "Director",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Projector",
+            "qualifiedName": "Projector",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "ReflectionProbe",
+            "qualifiedName": "ReflectionProbe",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Skybox",
+            "qualifiedName": "Skybox",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "SortingGroup",
+            "qualifiedName": "SortingGroup",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "StreamingController",
+            "qualifiedName": "StreamingController",
+            "nativeNamespace": "",
+            "module": "Streaming",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Terrain",
+            "qualifiedName": "Terrain",
+            "nativeNamespace": "",
+            "module": "Terrain",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "VideoPlayer",
+            "qualifiedName": "VideoPlayer",
+            "nativeNamespace": "",
+            "module": "Video",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "VisualEffect",
+            "qualifiedName": "VisualEffect",
+            "nativeNamespace": "",
+            "module": "VFX",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "WindZone",
+            "qualifiedName": "WindZone",
+            "nativeNamespace": "",
+            "module": "Wind",
+            "baseName": "Behaviour",
+            "baseModule": "Core"
+        },
+        {
+            "name": "CanvasRenderer",
+            "qualifiedName": "UI::CanvasRenderer",
+            "nativeNamespace": "UI",
+            "module": "UI",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Collider",
+            "qualifiedName": "Collider",
+            "nativeNamespace": "",
+            "module": "Physics",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "BoxCollider",
+            "qualifiedName": "BoxCollider",
+            "nativeNamespace": "",
+            "module": "Physics",
+            "baseName": "Collider",
+            "baseModule": "Physics"
+        },
+        {
+            "name": "CapsuleCollider",
+            "qualifiedName": "CapsuleCollider",
+            "nativeNamespace": "",
+            "module": "Physics",
+            "baseName": "Collider",
+            "baseModule": "Physics"
+        },
+        {
+            "name": "CharacterController",
+            "qualifiedName": "CharacterController",
+            "nativeNamespace": "",
+            "module": "Physics",
+            "baseName": "Collider",
+            "baseModule": "Physics"
+        },
+        {
+            "name": "MeshCollider",
+            "qualifiedName": "MeshCollider",
+            "nativeNamespace": "",
+            "module": "Physics",
+            "baseName": "Collider",
+            "baseModule": "Physics"
+        },
+        {
+            "name": "SphereCollider",
+            "qualifiedName": "SphereCollider",
+            "nativeNamespace": "",
+            "module": "Physics",
+            "baseName": "Collider",
+            "baseModule": "Physics"
+        },
+        {
+            "name": "TerrainCollider",
+            "qualifiedName": "TerrainCollider",
+            "nativeNamespace": "",
+            "module": "TerrainPhysics",
+            "baseName": "Collider",
+            "baseModule": "Physics"
+        },
+        {
+            "name": "WheelCollider",
+            "qualifiedName": "WheelCollider",
+            "nativeNamespace": "",
+            "module": "Vehicles",
+            "baseName": "Collider",
+            "baseModule": "Physics"
+        },
+        {
+            "name": "Joint",
+            "qualifiedName": "Unity::Joint",
+            "nativeNamespace": "Unity",
+            "module": "Physics",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "CharacterJoint",
+            "qualifiedName": "Unity::CharacterJoint",
+            "nativeNamespace": "Unity",
+            "module": "Physics",
+            "baseName": "Joint",
+            "baseModule": "Physics"
+        },
+        {
+            "name": "ConfigurableJoint",
+            "qualifiedName": "Unity::ConfigurableJoint",
+            "nativeNamespace": "Unity",
+            "module": "Physics",
+            "baseName": "Joint",
+            "baseModule": "Physics"
+        },
+        {
+            "name": "FixedJoint",
+            "qualifiedName": "Unity::FixedJoint",
+            "nativeNamespace": "Unity",
+            "module": "Physics",
+            "baseName": "Joint",
+            "baseModule": "Physics"
+        },
+        {
+            "name": "HingeJoint",
+            "qualifiedName": "Unity::HingeJoint",
+            "nativeNamespace": "Unity",
+            "module": "Physics",
+            "baseName": "Joint",
+            "baseModule": "Physics"
+        },
+        {
+            "name": "SpringJoint",
+            "qualifiedName": "Unity::SpringJoint",
+            "nativeNamespace": "Unity",
+            "module": "Physics",
+            "baseName": "Joint",
+            "baseModule": "Physics"
+        },
+        {
+            "name": "LODGroup",
+            "qualifiedName": "LODGroup",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "MeshFilter",
+            "qualifiedName": "MeshFilter",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "OcclusionArea",
+            "qualifiedName": "OcclusionArea",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "OcclusionPortal",
+            "qualifiedName": "OcclusionPortal",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "ParticleSystem",
+            "qualifiedName": "ParticleSystem",
+            "nativeNamespace": "",
+            "module": "ParticleSystem",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Renderer",
+            "qualifiedName": "Renderer",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "BillboardRenderer",
+            "qualifiedName": "BillboardRenderer",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Renderer",
+            "baseModule": "Core"
+        },
+        {
+            "name": "LineRenderer",
+            "qualifiedName": "LineRenderer",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Renderer",
+            "baseModule": "Core"
+        },
+        {
+            "name": "MeshRenderer",
+            "qualifiedName": "MeshRenderer",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Renderer",
+            "baseModule": "Core"
+        },
+        {
+            "name": "ParticleSystemRenderer",
+            "qualifiedName": "ParticleSystemRenderer",
+            "nativeNamespace": "",
+            "module": "ParticleSystem",
+            "baseName": "Renderer",
+            "baseModule": "Core"
+        },
+        {
+            "name": "SkinnedMeshRenderer",
+            "qualifiedName": "SkinnedMeshRenderer",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Renderer",
+            "baseModule": "Core"
+        },
+        {
+            "name": "SpriteMask",
+            "qualifiedName": "SpriteMask",
+            "nativeNamespace": "",
+            "module": "SpriteMask",
+            "baseName": "Renderer",
+            "baseModule": "Core"
+        },
+        {
+            "name": "SpriteRenderer",
+            "qualifiedName": "SpriteRenderer",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Renderer",
+            "baseModule": "Core"
+        },
+        {
+            "name": "SpriteShapeRenderer",
+            "qualifiedName": "SpriteShapeRenderer",
+            "nativeNamespace": "",
+            "module": "SpriteShape",
+            "baseName": "Renderer",
+            "baseModule": "Core"
+        },
+        {
+            "name": "TilemapRenderer",
+            "qualifiedName": "TilemapRenderer",
+            "nativeNamespace": "",
+            "module": "Tilemap",
+            "baseName": "Renderer",
+            "baseModule": "Core"
+        },
+        {
+            "name": "TrailRenderer",
+            "qualifiedName": "TrailRenderer",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Renderer",
+            "baseModule": "Core"
+        },
+        {
+            "name": "VFXRenderer",
+            "qualifiedName": "VFXRenderer",
+            "nativeNamespace": "",
+            "module": "VFX",
+            "baseName": "Renderer",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Rigidbody",
+            "qualifiedName": "Rigidbody",
+            "nativeNamespace": "",
+            "module": "Physics",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Rigidbody2D",
+            "qualifiedName": "Rigidbody2D",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "TextMesh",
+            "qualifiedName": "TextRenderingPrivate::TextMesh",
+            "nativeNamespace": "TextRenderingPrivate",
+            "module": "TextRendering",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Transform",
+            "qualifiedName": "Transform",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "RectTransform",
+            "qualifiedName": "UI::RectTransform",
+            "nativeNamespace": "UI",
+            "module": "Core",
+            "baseName": "Transform",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Tree",
+            "qualifiedName": "Tree",
+            "nativeNamespace": "",
+            "module": "Terrain",
+            "baseName": "Component",
+            "baseModule": "Core"
+        },
+        {
+            "name": "GameObject",
+            "qualifiedName": "GameObject",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "EditorExtension",
+            "baseModule": "Core"
+        },
+        {
+            "name": "NamedObject",
+            "qualifiedName": "NamedObject",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "EditorExtension",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AnimatorState",
+            "qualifiedName": "AnimatorState",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AnimatorStateMachine",
+            "qualifiedName": "AnimatorStateMachine",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AnimatorTransitionBase",
+            "qualifiedName": "AnimatorTransitionBase",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AnimatorStateTransition",
+            "qualifiedName": "AnimatorStateTransition",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "AnimatorTransitionBase",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "AnimatorTransition",
+            "qualifiedName": "AnimatorTransition",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "AnimatorTransitionBase",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "AssetBundle",
+            "qualifiedName": "AssetBundle",
+            "nativeNamespace": "",
+            "module": "AssetBundle",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AssetBundleManifest",
+            "qualifiedName": "AssetBundleManifest",
+            "nativeNamespace": "",
+            "module": "AssetBundle",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AssetImportInProgressProxy",
+            "qualifiedName": "AssetImportInProgressProxy",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AssetImporter",
+            "qualifiedName": "AssetImporter",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AndroidAssetPackImporter",
+            "qualifiedName": "AndroidAssetPackImporter",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "AssemblyDefinitionImporter",
+            "qualifiedName": "AssemblyDefinitionImporter",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "AssemblyDefinitionReferenceImporter",
+            "qualifiedName": "AssemblyDefinitionReferenceImporter",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "AudioImporter",
+            "qualifiedName": "AudioImporter",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "C4DImporter",
+            "qualifiedName": "C4DImporter",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "ComputeShaderImporter",
+            "qualifiedName": "ComputeShaderImporter",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "DefaultImporter",
+            "qualifiedName": "DefaultImporter",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "IHVImageFormatImporter",
+            "qualifiedName": "IHVImageFormatImporter",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "LibraryAssetImporter",
+            "qualifiedName": "LibraryAssetImporter",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "LocalizationImporter",
+            "qualifiedName": "LocalizationImporter",
+            "nativeNamespace": "",
+            "module": "LocalizationEditor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "ModelImporter",
+            "qualifiedName": "ModelImporter",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "FBXImporter",
+            "qualifiedName": "FBXImporter",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "ModelImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "Mesh3DSImporter",
+            "qualifiedName": "Mesh3DSImporter",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "ModelImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "SketchUpImporter",
+            "qualifiedName": "SketchUpImporter",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "ModelImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "MonoImporter",
+            "qualifiedName": "MonoImporter",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "MultiArtifactTestImporter",
+            "qualifiedName": "MultiArtifactTestImporter",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "NativeFormatImporter",
+            "qualifiedName": "NativeFormatImporter",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "PackageManifestImporter",
+            "qualifiedName": "PackageManifestImporter",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "PluginImporter",
+            "qualifiedName": "PluginImporter",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "PrefabImporter",
+            "qualifiedName": "PrefabImporter",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "PreviewImporter",
+            "qualifiedName": "PreviewImporter",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "RayTracingShaderImporter",
+            "qualifiedName": "RayTracingShaderImporter",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "ReferencesArtifactGenerator",
+            "qualifiedName": "ReferencesArtifactGenerator",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "RoslynAdditionalFileImporter",
+            "qualifiedName": "RoslynAdditionalFileImporter",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "RoslynAnalyzerConfigImporter",
+            "qualifiedName": "RoslynAnalyzerConfigImporter",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "RuleSetFileImporter",
+            "qualifiedName": "RuleSetFileImporter",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "ScriptedImporter",
+            "qualifiedName": "ScriptedImporter",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "ShaderImporter",
+            "qualifiedName": "ShaderImporter",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "ShaderIncludeImporter",
+            "qualifiedName": "ShaderIncludeImporter",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "SpeedTreeImporter",
+            "qualifiedName": "SpeedTreeImporter",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "SpriteAtlasImporter",
+            "qualifiedName": "SpriteAtlasImporter",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "SubstanceImporter",
+            "qualifiedName": "SubstanceImporter",
+            "nativeNamespace": "",
+            "module": "SubstanceEditor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "TextScriptImporter",
+            "qualifiedName": "TextScriptImporter",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "TextureImporter",
+            "qualifiedName": "TextureImporter",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "TrueTypeFontImporter",
+            "qualifiedName": "TrueTypeFontImporter",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "VideoClipImporter",
+            "qualifiedName": "VideoClipImporter",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "VisualEffectImporter",
+            "qualifiedName": "VisualEffectImporter",
+            "nativeNamespace": "",
+            "module": "VFXEditor",
+            "baseName": "AssetImporter",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "AudioMixer",
+            "qualifiedName": "AudioMixer",
+            "nativeNamespace": "",
+            "module": "Audio",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AudioMixerController",
+            "qualifiedName": "AudioMixerController",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "AudioMixer",
+            "baseModule": "Audio"
+        },
+        {
+            "name": "AudioMixerEffectController",
+            "qualifiedName": "AudioMixerEffectController",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AudioMixerGroup",
+            "qualifiedName": "AudioMixerGroup",
+            "nativeNamespace": "",
+            "module": "Audio",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AudioMixerGroupController",
+            "qualifiedName": "AudioMixerGroupController",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "AudioMixerGroup",
+            "baseModule": "Audio"
+        },
+        {
+            "name": "AudioMixerSnapshot",
+            "qualifiedName": "AudioMixerSnapshot",
+            "nativeNamespace": "",
+            "module": "Audio",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AudioMixerSnapshotController",
+            "qualifiedName": "AudioMixerSnapshotController",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "AudioMixerSnapshot",
+            "baseModule": "Audio"
+        },
+        {
+            "name": "Avatar",
+            "qualifiedName": "Avatar",
+            "nativeNamespace": "",
+            "module": "Animation",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AvatarMask",
+            "qualifiedName": "AvatarMask",
+            "nativeNamespace": "",
+            "module": "Animation",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "BaseAnimationTrack",
+            "qualifiedName": "BaseAnimationTrack",
+            "nativeNamespace": "",
+            "module": "Animation",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "NewAnimationTrack",
+            "qualifiedName": "NewAnimationTrack",
+            "nativeNamespace": "",
+            "module": "Animation",
+            "baseName": "BaseAnimationTrack",
+            "baseModule": "Animation"
+        },
+        {
+            "name": "BillboardAsset",
+            "qualifiedName": "BillboardAsset",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "BuildReport",
+            "qualifiedName": "BuildReporting::BuildReport",
+            "nativeNamespace": "BuildReporting",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "CachedSpriteAtlas",
+            "qualifiedName": "CachedSpriteAtlas",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "CachedSpriteAtlasRuntimeData",
+            "qualifiedName": "CachedSpriteAtlasRuntimeData",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "ComputeShader",
+            "qualifiedName": "ComputeShader",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "DefaultAsset",
+            "qualifiedName": "DefaultAsset",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "BrokenPrefabAsset",
+            "qualifiedName": "BrokenPrefabAsset",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "DefaultAsset",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "SceneAsset",
+            "qualifiedName": "SceneAsset",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "DefaultAsset",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "EditorProjectAccess",
+            "qualifiedName": "EditorProjectAccess",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Flare",
+            "qualifiedName": "Flare",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Font",
+            "qualifiedName": "TextRendering::Font",
+            "nativeNamespace": "TextRendering",
+            "module": "TextRendering",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "GameObjectRecorder",
+            "qualifiedName": "GameObjectRecorder",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "HumanTemplate",
+            "qualifiedName": "HumanTemplate",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "ImportLog",
+            "qualifiedName": "ImportLog",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "LightProbes",
+            "qualifiedName": "LightProbes",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "LightingDataAsset",
+            "qualifiedName": "LightingDataAsset",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "LightingDataAssetParent",
+            "qualifiedName": "LightingDataAssetParent",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "LightingSettings",
+            "qualifiedName": "LightingSettings",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "LightmapParameters",
+            "qualifiedName": "LightmapParameters",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "LocalizationAsset",
+            "qualifiedName": "LocalizationAsset",
+            "nativeNamespace": "",
+            "module": "Localization",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Material",
+            "qualifiedName": "Material",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "ProceduralMaterial",
+            "qualifiedName": "ProceduralMaterial",
+            "nativeNamespace": "",
+            "module": "Substance",
+            "baseName": "Material",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Mesh",
+            "qualifiedName": "Mesh",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Motion",
+            "qualifiedName": "Motion",
+            "nativeNamespace": "",
+            "module": "Animation",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AnimationClip",
+            "qualifiedName": "AnimationClip",
+            "nativeNamespace": "",
+            "module": "Animation",
+            "baseName": "Motion",
+            "baseModule": "Animation"
+        },
+        {
+            "name": "PreviewAnimationClip",
+            "qualifiedName": "PreviewAnimationClip",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "AnimationClip",
+            "baseModule": "Animation"
+        },
+        {
+            "name": "BlendTree",
+            "qualifiedName": "BlendTree",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "Motion",
+            "baseModule": "Animation"
+        },
+        {
+            "name": "NavMeshData",
+            "qualifiedName": "NavMeshData",
+            "nativeNamespace": "",
+            "module": "AI",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "OcclusionCullingData",
+            "qualifiedName": "OcclusionCullingData",
+            "nativeNamespace": "",
+            "module": "Umbra",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "PhysicMaterial",
+            "qualifiedName": "PhysicMaterial",
+            "nativeNamespace": "",
+            "module": "Physics",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "PhysicsMaterial2D",
+            "qualifiedName": "PhysicsMaterial2D",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "PreloadData",
+            "qualifiedName": "PreloadData",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Preset",
+            "qualifiedName": "Preset",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "RayTracingShader",
+            "qualifiedName": "RayTracingShader",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "RoslynAdditionalFileAsset",
+            "qualifiedName": "RoslynAdditionalFileAsset",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "RoslynAnalyzerConfigAsset",
+            "qualifiedName": "RoslynAnalyzerConfigAsset",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "RuntimeAnimatorController",
+            "qualifiedName": "RuntimeAnimatorController",
+            "nativeNamespace": "",
+            "module": "Animation",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AnimatorController",
+            "qualifiedName": "AnimatorController",
+            "nativeNamespace": "",
+            "module": "Animation",
+            "baseName": "RuntimeAnimatorController",
+            "baseModule": "Animation"
+        },
+        {
+            "name": "AnimatorOverrideController",
+            "qualifiedName": "AnimatorOverrideController",
+            "nativeNamespace": "",
+            "module": "Animation",
+            "baseName": "RuntimeAnimatorController",
+            "baseModule": "Animation"
+        },
+        {
+            "name": "SampleClip",
+            "qualifiedName": "SampleClip",
+            "nativeNamespace": "",
+            "module": "Audio",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AudioClip",
+            "qualifiedName": "AudioClip",
+            "nativeNamespace": "",
+            "module": "Audio",
+            "baseName": "SampleClip",
+            "baseModule": "Audio"
+        },
+        {
+            "name": "Shader",
+            "qualifiedName": "Shader",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "ShaderVariantCollection",
+            "qualifiedName": "ShaderVariantCollection",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "SpeedTreeWindAsset",
+            "qualifiedName": "SpeedTreeWindAsset",
+            "nativeNamespace": "",
+            "module": "Terrain",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Sprite",
+            "qualifiedName": "Sprite",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "SpriteAtlas",
+            "qualifiedName": "SpriteAtlas",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "SpriteAtlasAsset",
+            "qualifiedName": "SpriteAtlasAsset",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "SubstanceArchive",
+            "qualifiedName": "SubstanceArchive",
+            "nativeNamespace": "",
+            "module": "Substance",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "TerrainData",
+            "qualifiedName": "TerrainData",
+            "nativeNamespace": "",
+            "module": "Terrain",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "TerrainLayer",
+            "qualifiedName": "TerrainLayer",
+            "nativeNamespace": "",
+            "module": "Terrain",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "TextAsset",
+            "qualifiedName": "TextAsset",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AssemblyDefinitionAsset",
+            "qualifiedName": "AssemblyDefinitionAsset",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "TextAsset",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AssemblyDefinitionReferenceAsset",
+            "qualifiedName": "AssemblyDefinitionReferenceAsset",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "TextAsset",
+            "baseModule": "Core"
+        },
+        {
+            "name": "MonoScript",
+            "qualifiedName": "MonoScript",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "TextAsset",
+            "baseModule": "Core"
+        },
+        {
+            "name": "PackageManifest",
+            "qualifiedName": "PackageManifest",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "TextAsset",
+            "baseModule": "Core"
+        },
+        {
+            "name": "RuleSetFileAsset",
+            "qualifiedName": "RuleSetFileAsset",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "TextAsset",
+            "baseModule": "Core"
+        },
+        {
+            "name": "ShaderInclude",
+            "qualifiedName": "ShaderInclude",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "TextAsset",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Texture",
+            "qualifiedName": "Texture",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "BaseVideoTexture",
+            "qualifiedName": "BaseVideoTexture",
+            "nativeNamespace": "",
+            "module": "Audio",
+            "baseName": "Texture",
+            "baseModule": "Core"
+        },
+        {
+            "name": "WebCamTexture",
+            "qualifiedName": "WebCamTexture",
+            "nativeNamespace": "",
+            "module": "Audio",
+            "baseName": "BaseVideoTexture",
+            "baseModule": "Audio"
+        },
+        {
+            "name": "CubemapArray",
+            "qualifiedName": "CubemapArray",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Texture",
+            "baseModule": "Core"
+        },
+        {
+            "name": "LowerResBlitTexture",
+            "qualifiedName": "LowerResBlitTexture",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Texture",
+            "baseModule": "Core"
+        },
+        {
+            "name": "MovieTexture",
+            "qualifiedName": "MovieTexture",
+            "nativeNamespace": "",
+            "module": "Audio",
+            "baseName": "Texture",
+            "baseModule": "Core"
+        },
+        {
+            "name": "ProceduralTexture",
+            "qualifiedName": "ProceduralTexture",
+            "nativeNamespace": "",
+            "module": "Substance",
+            "baseName": "Texture",
+            "baseModule": "Core"
+        },
+        {
+            "name": "RenderTexture",
+            "qualifiedName": "RenderTexture",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Texture",
+            "baseModule": "Core"
+        },
+        {
+            "name": "CustomRenderTexture",
+            "qualifiedName": "CustomRenderTexture",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "RenderTexture",
+            "baseModule": "Core"
+        },
+        {
+            "name": "SparseTexture",
+            "qualifiedName": "SparseTexture",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Texture",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Texture2D",
+            "qualifiedName": "Texture2D",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Texture",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Cubemap",
+            "qualifiedName": "Cubemap",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Texture2D",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Texture2DArray",
+            "qualifiedName": "Texture2DArray",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Texture",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Texture3D",
+            "qualifiedName": "Texture3D",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Texture",
+            "baseModule": "Core"
+        },
+        {
+            "name": "VideoClip",
+            "qualifiedName": "VideoClip",
+            "nativeNamespace": "",
+            "module": "Video",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "VisualEffectObject",
+            "qualifiedName": "VisualEffectObject",
+            "nativeNamespace": "",
+            "module": "VFX",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "VisualEffectAsset",
+            "qualifiedName": "VisualEffectAsset",
+            "nativeNamespace": "",
+            "module": "VFX",
+            "baseName": "VisualEffectObject",
+            "baseModule": "VFX"
+        },
+        {
+            "name": "VisualEffectSubgraph",
+            "qualifiedName": "VisualEffectSubgraph",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "VisualEffectObject",
+            "baseModule": "VFX"
+        },
+        {
+            "name": "VisualEffectSubgraphBlock",
+            "qualifiedName": "VisualEffectSubgraphBlock",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "VisualEffectSubgraph",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "VisualEffectSubgraphOperator",
+            "qualifiedName": "VisualEffectSubgraphOperator",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "VisualEffectSubgraph",
+            "baseModule": "Editor"
+        },
+        {
+            "name": "VisualEffectResource",
+            "qualifiedName": "VisualEffectResource",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "NamedObject",
+            "baseModule": "Core"
+        },
+        {
+            "name": "EditorExtensionImpl",
+            "qualifiedName": "EditorExtensionImpl",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "EditorSettings",
+            "qualifiedName": "EditorSettings",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "EditorUserBuildSettings",
+            "qualifiedName": "EditorUserBuildSettings",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "EditorUserSettings",
+            "qualifiedName": "EditorUserSettings",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "GameManager",
+            "qualifiedName": "GameManager",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "GlobalGameManager",
+            "qualifiedName": "GlobalGameManager",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "GameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "AudioManager",
+            "qualifiedName": "AudioManager",
+            "nativeNamespace": "",
+            "module": "Audio",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "BuildSettings",
+            "qualifiedName": "BuildSettings",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "ClusterInputManager",
+            "qualifiedName": "ClusterInputManager",
+            "nativeNamespace": "",
+            "module": "ClusterInput",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "DelayedCallManager",
+            "qualifiedName": "DelayedCallManager",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "GraphicsSettings",
+            "qualifiedName": "GraphicsSettings",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "InputManager",
+            "qualifiedName": "InputManager",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "MonoManager",
+            "qualifiedName": "MonoManager",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "NavMeshProjectSettings",
+            "qualifiedName": "NavMeshProjectSettings",
+            "nativeNamespace": "",
+            "module": "AI",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Physics2DSettings",
+            "qualifiedName": "Physics2DSettings",
+            "nativeNamespace": "",
+            "module": "Physics2D",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "PhysicsManager",
+            "qualifiedName": "PhysicsManager",
+            "nativeNamespace": "",
+            "module": "Physics",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "PlayerSettings",
+            "qualifiedName": "PlayerSettings",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "QualitySettings",
+            "qualifiedName": "QualitySettings",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "ResourceManager",
+            "qualifiedName": "ResourceManager",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "RuntimeInitializeOnLoadManager",
+            "qualifiedName": "RuntimeInitializeOnLoadManager",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "ShaderNameRegistry",
+            "qualifiedName": "ShaderNameRegistry",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "StreamingManager",
+            "qualifiedName": "StreamingManager",
+            "nativeNamespace": "",
+            "module": "Streaming",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "TagManager",
+            "qualifiedName": "TagManager",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "TimeManager",
+            "qualifiedName": "TimeManager",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "UnityConnectSettings",
+            "qualifiedName": "UnityConnectSettings",
+            "nativeNamespace": "",
+            "module": "UnityConnect",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "VFXManager",
+            "qualifiedName": "VFXManager",
+            "nativeNamespace": "",
+            "module": "VFX",
+            "baseName": "GlobalGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "LevelGameManager",
+            "qualifiedName": "LevelGameManager",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "GameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "LightmapSettings",
+            "qualifiedName": "LightmapSettings",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "LevelGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "NavMeshSettings",
+            "qualifiedName": "NavMeshSettings",
+            "nativeNamespace": "",
+            "module": "AI",
+            "baseName": "LevelGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "OcclusionCullingSettings",
+            "qualifiedName": "OcclusionCullingSettings",
+            "nativeNamespace": "",
+            "module": "Umbra",
+            "baseName": "LevelGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "RenderSettings",
+            "qualifiedName": "RenderSettings",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "LevelGameManager",
+            "baseModule": "Core"
+        },
+        {
+            "name": "HierarchyState",
+            "qualifiedName": "HierarchyState",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "InspectorExpandedState",
+            "qualifiedName": "InspectorExpandedState",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "MemorySettings",
+            "qualifiedName": "MemorySettings",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "PackedAssets",
+            "qualifiedName": "BuildReporting::PackedAssets",
+            "nativeNamespace": "BuildReporting",
+            "module": "Editor",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "PlatformModuleSetup",
+            "qualifiedName": "PlatformModuleSetup",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "PluginBuildInfo",
+            "qualifiedName": "BuildReporting::PluginBuildInfo",
+            "nativeNamespace": "BuildReporting",
+            "module": "BuildReportingEditor",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Prefab",
+            "qualifiedName": "Prefab",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "PrefabInstance",
+            "qualifiedName": "PrefabInstance",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "PresetManager",
+            "qualifiedName": "PresetManager",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "SceneRoots",
+            "qualifiedName": "SceneRoots",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "SceneVisibilityState",
+            "qualifiedName": "SceneVisibilityState",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "ScenesUsingAssets",
+            "qualifiedName": "BuildReporting::ScenesUsingAssets",
+            "nativeNamespace": "BuildReporting",
+            "module": "Editor",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "ShaderContainer",
+            "qualifiedName": "ShaderFoundry::ShaderContainer",
+            "nativeNamespace": "ShaderFoundry",
+            "module": "Editor",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "SpriteAtlasDatabase",
+            "qualifiedName": "SpriteAtlasDatabase",
+            "nativeNamespace": "",
+            "module": "Core",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "VersionControlSettings",
+            "qualifiedName": "VersionControlSettings",
+            "nativeNamespace": "",
+            "module": "Editor",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "VideoBuildInfo",
+            "qualifiedName": "BuildReporting::VideoBuildInfo",
+            "nativeNamespace": "BuildReporting",
+            "module": "BuildReportingEditor",
+            "baseName": "Object",
+            "baseModule": "Core"
+        },
+        {
+            "name": "Vector3f",
+            "qualifiedName": "Vector3f",
+            "nativeNamespace": "",
+            "module": "undefined",
+            "baseName": "",
+            "baseModule": ""
+        },
+        {
+            "name": "AudioMixerLiveUpdateBool",
+            "qualifiedName": "AudioMixerLiveUpdateBool",
+            "nativeNamespace": "",
+            "module": "undefined",
+            "baseName": "",
+            "baseModule": ""
+        },
+        {
+            "name": "bool",
+            "qualifiedName": "bool",
+            "nativeNamespace": "",
+            "module": "undefined",
+            "baseName": "",
+            "baseModule": ""
+        },
+        {
+            "name": "void",
+            "qualifiedName": "void",
+            "nativeNamespace": "",
+            "module": "undefined",
+            "baseName": "",
+            "baseModule": ""
+        },
+        {
+            "name": "RootMotionData",
+            "qualifiedName": "RootMotionData",
+            "nativeNamespace": "",
+            "module": "undefined",
+            "baseName": "",
+            "baseModule": ""
+        },
+        {
+            "name": "AudioMixerLiveUpdateFloat",
+            "qualifiedName": "AudioMixerLiveUpdateFloat",
+            "nativeNamespace": "",
+            "module": "undefined",
+            "baseName": "",
+            "baseModule": ""
+        },
+        {
+            "name": "MonoObject",
+            "qualifiedName": "MonoObject",
+            "nativeNamespace": "",
+            "module": "undefined",
+            "baseName": "",
+            "baseModule": ""
+        },
+        {
+            "name": "Collision2D",
+            "qualifiedName": "Collision2D",
+            "nativeNamespace": "",
+            "module": "undefined",
+            "baseName": "",
+            "baseModule": ""
+        },
+        {
+            "name": "Polygon2D",
+            "qualifiedName": "Polygon2D",
+            "nativeNamespace": "",
+            "module": "undefined",
+            "baseName": "",
+            "baseModule": ""
+        },
+        {
+            "name": "Collision",
+            "qualifiedName": "Collision",
+            "nativeNamespace": "",
+            "module": "undefined",
+            "baseName": "",
+            "baseModule": ""
+        },
+        {
+            "name": "float",
+            "qualifiedName": "float",
+            "nativeNamespace": "",
+            "module": "undefined",
+            "baseName": "",
+            "baseModule": ""
+        },
+        {
+            "name": "int",
+            "qualifiedName": "int",
+            "nativeNamespace": "",
+            "module": "undefined",
+            "baseName": "",
+            "baseModule": ""
+        }
+    ],
+    "forceIncludeModules": [],
+    "forceExcludeModules": [
+        "ClusterInput",
+        "ClusterRenderer",
+        "NVIDIA",
+        "VirtualTexturing"
+    ]
+}
