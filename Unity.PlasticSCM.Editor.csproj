@@ -339,8 +339,8 @@
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.7.1\Editor\Gluon\UpdateReport\UpdateReportListHeaderState.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.7.1\Editor\Views\Locks\LocksSelector.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.7.1\Editor\AssetOverlays\Cache\LocalStatusCache.cs" />
-    <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.7.1\Editor\AssetMenu\AssetVcsOperations.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.7.1\Editor\WebApi\CredentialsResponse.cs" />
+    <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.7.1\Editor\AssetMenu\AssetVcsOperations.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.7.1\Editor\UI\UnityStyles.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.7.1\Editor\AssetsUtils\Processor\PlasticAssetsProcessor.cs" />
     <Compile Include="Library\PackageCache\com.unity.collab-proxy@2.7.1\Editor\Gluon\ShelvedChangesNotification.cs" />

@@ -18,7 +18,7 @@ namespace Mediapipe.Unity
 {
   public class WebCamSource : ImageSource
   {
-    private readonly int _preferableDefaultWidth = 1280;
+    private readonly int _preferableDefaultWidth = 1080;
 
     private const string _TAG = nameof(WebCamSource);
 
@@ -242,7 +242,7 @@ namespace Mediapipe.Unity
       Stop();
       if (webCamDevice is WebCamDevice valueOfWebCamDevice)
       {
-        webCamTexture = new WebCamTexture(valueOfWebCamDevice.name, resolution.width, resolution.height, 120);
+        webCamTexture = new WebCamTexture(valueOfWebCamDevice.name, resolution.width, resolution.height, 60);
         return;
       }
       throw new InvalidOperationException("Cannot initialize WebCamTexture because WebCamDevice is not selected");

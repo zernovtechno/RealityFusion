@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/MediaPipeUnity/Samples/Scenes/Hand Landmark Detection/Hand Tracking.unity
+    path: Assets/RealityFusion/RealityFusionBaseScene.unity
     guid: 8603eec01b3e71f4f8b39382e0591359
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 88893e0cd64bf5049912d2f3dcbdb8fc, type: 2}

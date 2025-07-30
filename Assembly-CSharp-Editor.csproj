@@ -1239,10 +1239,6 @@
       <Project>{4E32DEA2-8E1D-22A5-F060-5B87DBEDCA32}</Project>
       <Name>Unity.PlasticSCM.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="CardboardSamples.csproj">
-      <Project>{E73FBD3D-A266-FD89-D092-EA490DAAA79B}</Project>
-      <Name>CardboardSamples</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.State.Editor.csproj">
       <Project>{1401238A-5D12-D384-F674-AB0687170FF3}</Project>
       <Name>Unity.VisualScripting.State.Editor</Name>

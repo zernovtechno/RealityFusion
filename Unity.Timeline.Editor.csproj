@@ -291,8 +291,8 @@
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\Manipulators\Sequence\Jog.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\treeview\Drawers\TrackItemsDrawer.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\Manipulators\AddDelete\IAddDeleteItemMode.cs" />
-    <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\Utilities\SequenceSelectorNameFormater.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\inspectors\GroupTrackInspector.cs" />
+    <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\Utilities\SequenceSelectorNameFormater.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\TimelineEditor.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\Window\TimelineWindowTimeControl.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.6\Editor\Utilities\StyleManager.cs" />

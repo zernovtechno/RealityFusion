@@ -6,7 +6,7 @@
 
 using UnityEngine;
 using UnityEngine.UI;
-
+using RealityFusion.API;
 namespace Mediapipe.Unity
 {
   public class Screen : MonoBehaviour
@@ -14,7 +14,7 @@ namespace Mediapipe.Unity
         [SerializeField] public RawImage _screen;
         [SerializeField] public RawImage Left_image;
         [SerializeField] public RawImage Right_image;
-        [SerializeField] public QRReader QRR;
+        [SerializeField] public EasyAPI _EasyAPI;
 
         private ImageSource _imageSource;
 
@@ -37,7 +37,7 @@ namespace Mediapipe.Unity
       Rotate(_imageSource.rotation.Reverse());
       ResetUvRect(RunningMode.Async);
       texture = imageSource.GetCurrentTexture();
-      QRR.CameraImage = imageSource.GetCurrentWebCamTexture();
+      _EasyAPI.PutTextures(imageSource.GetCurrentWebCamTexture(), imageSource.GetCurrentTexture());
     }
 
     public void Resize(int width, int height)
