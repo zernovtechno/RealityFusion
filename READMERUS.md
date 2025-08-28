@@ -9,5 +9,3 @@
 ## Если вы хотите скомпилировать этот проект...
 
 ### [Как разрабатывать под Reality Fusion: огонь, вода и медные трубы.](https://github.com/zernovtechno/RealityFusion/wiki)
-
-## Поздравляю!
