@@ -11,5 +11,3 @@ Select the "Releases" menu on the right side of your screen and download APK fil
 
 Please, go to out detailed [Wiki](https://github.com/zernovtechno/RealityFusion/wiki)
 
-## Congrats!
-
